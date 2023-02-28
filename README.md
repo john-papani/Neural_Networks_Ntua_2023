@@ -10,12 +10,19 @@ This repository contains 3 programming assignments in Python for the ECE NTUA Co
 | Lab3   | Deep Learning using TensorFlow2|   
 
 
-<p align="center">
 
-| Name                                | Εmail                  | AM         |
-| ----------------------------------- | ---------------------- | ---------- |
-| Papanikolaou Ioannis                | *el18064@mail.ntua.gr* | 031 18 064 |
-| Andreas Chrysovalantis-Konstantinos | *el18102@mail.ntua.gr* | 031 18 102 |
-| Maniatis Andreas                    | *el18070@mail.ntua.gr* | 031 18 070 |
+
+
+<details><summary> Colaborators  </summary>
+<p>
+
+| Name                                | Εmail                  |
+| ----------------------------------- | ---------------------- |
+| Papanikolaou Ioannis                | *el18064@mail.ntua.gr* |
+| Andreas Chrysovalantis-Konstantinos | *el18102@mail.ntua.gr* |
+| Maniatis Andreas                    | *el18070@mail.ntua.gr* |
+
 
 </p>
+</details>
+
